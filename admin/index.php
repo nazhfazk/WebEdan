@@ -148,7 +148,7 @@
                         </ul>
                     </li>
                     
-                    <li><a href="functions/logout.php" class="waves-effect"><i class="icon-logout fa-fw"></i> <span class="hide-menu">Log out</span></a></li>
+                    <li><a href="functions/home.php" class="waves-effect"><span class="hide-menu">Home</span></a></li>
                    
                 </ul>
             </div>
